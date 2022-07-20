@@ -1,0 +1,7 @@
+[project]
+src = "src/main.cpp"
+edition = "2022"
+name = "chip++9"
+standard = "17"
+version = "1.0.0"
+include = "include"
