@@ -1,7 +1,10 @@
 [project]
-src = "src/main.cpp"
 edition = "2022"
+flags = "-O0"
+include = "include, librg/code"
 name = "chip++9"
-standard = "17"
+src = "src/main.cpp"
+extra = "include/tigr.c"
+standard = "03"
 version = "1.0.0"
-include = "include"
+libs = "opengl32, gdi32"

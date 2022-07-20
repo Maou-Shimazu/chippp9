@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef CHIP++9_HPP
-#define CHIP++9_HPP
+#ifndef CHIP_9_HPP
+#define CHIP_9_HPP
 
 #include <iostream>
 
