@@ -29,6 +29,7 @@ AlwaysBreakBeforeMultilineStrings: false
 AlwaysBreakTemplateDeclarations: true
 BinPackArguments: false
 BinPackParameters: false
+IndentCaseLabels: true
 
 BraceWrapping: {
   AfterClass: 'true'
